@@ -17,3 +17,4 @@
 *.exe
 *.vsdx
 *.enc
+*.db-wal
