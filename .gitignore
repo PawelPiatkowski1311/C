@@ -15,3 +15,5 @@
 *.json
 *.ipch
 *.exe
+*.vsdx
+*.enc
