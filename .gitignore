@@ -18,3 +18,5 @@
 *.vsdx
 *.enc
 *.db-wal
+*.png
+!program.png
